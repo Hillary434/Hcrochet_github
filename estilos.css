@@ -1,0 +1,67 @@
+body {
+            background-color: hwb(38 71% 0%)
+        }
+        .color-fondo {
+            background-color: rgb(206, 201, 129);
+            padding: 35px;
+            text-align: center;
+        }
+        p1 { 
+            color: rgb(27, 21, 2);
+        } 
+#Introduccion-curso { 
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+#Lista-puntos { 
+    color: #221d0a;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+#Info { 
+    color: rgb(133, 105, 4);
+    font-family: cursive;
+    font-size: 25px;
+}
+#Texto {
+    color:  rgb(36, 28, 1);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.tabla-ch{
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 1em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.tabla-ch thead tr{
+    background-color: #00a6ff;
+    color: #ffffff;
+    text-align: middle;
+
+}
+.tabla-ch th,
+.tabla-ch td{
+    padding: 12px 15px;
+
+}
+.tabla-ch tbody tr{
+    border-bottom: 1px solid #dddddd;
+}
+.tabla-ch tbody tr:nth-of-type(even){
+    background-color: #f3f3f3f3;
+}
+.tabla-ch{
+    width: 500px;
+    margin-left: 1000px;
+    margin-right: 450px;
+}
+.curso-crochet{
+    width: auto;
+    position: absolute;
+    top: 80px;
+}
+
+
